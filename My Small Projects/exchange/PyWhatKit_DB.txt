@@ -1,0 +1,35 @@
+Date: 15/6/2023
+Time: 21:8
+Phone Number: +971503948976
+Message: Today on Thu 15 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.690761899092752
+--------------------
+Date: 15/6/2023
+Time: 21:11
+Phone Number: +971503948976
+Message: Today on Thu 15 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.691123854335147
+--------------------
+Date: 15/6/2023
+Time: 21:19
+Phone Number: +971503948976
+Message: Today on Thu 15 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.692
+--------------------
+Date: 15/6/2023
+Time: 21:21
+Phone Number: +971503948976
+Message: Today on Thu 15 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.691
+--------------------
+Date: 15/6/2023
+Time: 21:54
+Group ID: CRXy1CK8JroLwDr2yVOPt0
+Message: Today on Thu 15 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.693
+--------------------
+Date: 27/6/2023
+Time: 15:12
+Group ID: CRXy1CK8JroLwDr2yVOPt0
+Message: Today on Tue 27 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.673
+--------------------
+Date: 27/6/2023
+Time: 15:14
+Group ID: CRXy1CK8JroLwDr2yVOPt0
+Message: Today on Tue 27 Jun 2023 the exchange rate is as follows: 1 GBP is worth AED 4.674
+--------------------

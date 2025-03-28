@@ -1,0 +1,16 @@
+class A:
+    def __init__(self):
+	    print("Init in A")
+    def feature1(self):
+	    print("Feature1")
+
+		
+class B(A):
+    def __init__(self):
+	    print("Init in B")
+    def feature2(self):
+	    print("Feature2")
+
+class C(B):
+    def __inti__():
+        print("Init in C")
